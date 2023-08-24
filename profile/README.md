@@ -1,0 +1,2 @@
+# Wheel of Life
+Welcome to the Wheel of Life github page! This is where we usually upload scripts we use on the server (Skript is a Minecraft plugin used for coding custom things) so you can try them out for yourself. This is more for developers or people who admire our skripts, so if you do not plan to use anything here or are not a developer, you can look around if you want! This can also help you understand more about how skript works. **We plan to make a tutorial repository on how our skripts work**
